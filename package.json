@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/Tianajohn98/u-develop-it#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.2",
+    "exprexx": "^1.0.0",
     "mysql2": "^2.3.3"
   },
   "devDependencies": {
